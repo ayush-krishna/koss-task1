@@ -122,7 +122,7 @@ int main()
       do
       {
         cout<<"\t\t\t\tBANK MANAGEMENT SYSTEM";
-        cout<<"\n\t\t\t\tC";
+        cout<<"\n\t\t\t\t1.NEW ACCOUNT";
         cout<<"\n\t\t\t\t2. DEPOSIT AMOUNT";
         cout<<"\n\t\t\t\t3. WITHDRAW AMOUNT";
         cout<<"\n\t\t\t\t4. BALANCE ENQUIRY";
